@@ -1,12 +1,11 @@
-package com.zj.www;
+package PACKAGE_NAME;
 
 /**
  * Created with IntelliJ IDEA.
  * Description:
  * User: ZJ
  * Date: 2023-04-27
- * Time: 15:43
+ * Time: 19:45
  */
-public class TestDemo {
-
+public class Test {
 }
