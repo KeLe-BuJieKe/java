@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Date: 2023-04-28
  * Time: 2:26
  */
-public class Game extends CheckerBoard{  //java只能单继承，不能多几次，但C++可以多继承
+public class Game extends CheckerBoard{  //java只能单继承，不能多继承，但C++可以多继承
     public Game() {
     }
 
